@@ -5,7 +5,7 @@ ARCHIVO="Filtro_Basico.txt"
 
 sudo touch $ARCHIVO
 
-RUTA_ARCHIVO=$"${CARPETA}/${ARCHIVO}"
+RUTA_ARCHIVO="${CARPETA}/${ARCHIVO}"
 
 echo "Se creo el archivo correctamente"
 
