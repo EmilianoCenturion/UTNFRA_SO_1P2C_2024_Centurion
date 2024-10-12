@@ -14,3 +14,4 @@ cat /proc/meminfo | grep "MemTotal" >> $RUTA_ARCHIVO
 sudo dmidecode -t chassis | head -n7 | tail -n2 >> $RUTA_ARCHIVO
 
 cat $ARCHIVO
+
