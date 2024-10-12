@@ -1,0 +1,8 @@
+#######################
+# Listado de usuarios #
+#######################
+
+p1c2_2024_A1,p1c2_2024_gAlumno,/Examenes-UTN/alumno_1
+p1c2_2024_A2,p1c2_2024_gAlumno,/Examenes-UTN/alumno_2
+p1c2_2024_A3,p1c2_2024_gAlumno,/Examenes-UTN/alumno_3
+p1c2_2024_P1,p1c2_2024_gProfesores,/Examenes-UTN/profesores
