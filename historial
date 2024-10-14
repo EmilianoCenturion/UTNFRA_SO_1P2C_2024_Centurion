@@ -641,14 +641,11 @@ git status
 cd UTNFRA_SO_1P2C_2024_centurion/
 git status
 git add RTA_SCRIPT_Examen_20241011/Punto_C.sh
-git add Listado?PuntoC
-git add Listado_PuntoC
 l;
 ll
 cd RTA_ARCHIVOS_Examen_20241011/
 ll
 git status
-git add Listado_PuntoC
 git push
 cd ..
 history > historial_01
